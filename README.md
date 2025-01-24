@@ -54,4 +54,9 @@ As ferramentas que iremos utilizar para realizar este teste de phishing serão a
 
 ![image](https://github.com/user-attachments/assets/31edc4a0-a43f-44ff-8218-306dfed3c4f5)
 
+---
+
+### Referências
+
+Este projeto foi inspirado no repositório [cibersecurity-desafio-phishing](https://github.com/cassiano-dio/cibersecurity-desafio-phishing) criado por [Cassiano](https://github.com/cassiano-dio).
 
