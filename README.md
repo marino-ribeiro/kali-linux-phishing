@@ -48,7 +48,7 @@ As ferramentas que iremos utilizar para realizar este teste de phishing serão a
 5. Método de ataque: Credential Harvester Attack Method 
 6. Método de ataque: Site Cloner
 7. Obtendo o endereço da máquina: ifconfig
-8. URL para clone: http://www.facebook.com
+8. URL para clone: https://www.instagram.com
 
 ## Resultado do teste de phishing
 
